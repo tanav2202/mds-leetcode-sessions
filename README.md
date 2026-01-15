@@ -4,29 +4,13 @@ This repository contains solutions for LeetCode problems practiced during the UB
 
 ---
 
-## Problems Covered
-
-- TwoSum  
-- ValidAnagram  
-- ValidSudoku  
-- ValidPalindrome  
-- StringCompression
-- Container With Most Water
-- Two Sum II - Input Array Is Sorted
-- Trapping Rain Water
-- Longest Consecutive Sequence
-
-Additional problems and solutions will be added as the sessions progress.
-
----
-
 ## Session Documentation
 
 - Session 1 : https://docs.google.com/document/d/1gPVra1eafFKRvM4aCqF9lE-AGVMrB8VkbUHPOSuwb_0/edit?usp=sharing
 - Session 2: https://docs.google.com/document/d/1z8DHtisXh4UWGcFZttG6TMRoLfn5PsXawKNwGm8gnUo/edit?usp=sharing
 - Session 3: https://docs.google.com/document/d/1age7USgbHKFQjXtpLFoG38_C5H0IPyan607hmNMKLoU/edit?usp=sharing
 - Session 4: https://docs.google.com/document/d/1lIgnO0IoTddx6rKSROcPHMLoYmtkA5hKUy-G7-pTuk8/edit?usp=sharing
-
+- Session 5: https://docs.google.com/document/d/1ptFruRXnQLU9qQv_EesNVH3qA1DYIUNZqg3nJFa56HY/edit?usp=sharing
 ---
 
 ## How to Use
